@@ -1,0 +1,217 @@
+text,label,source,clean_text,split
+When will the semester exam timetable be released?,academics,original_ai_assisted_campus_queries,when will the semester exam timetable be released,train
+How can I register for an elective course?,academics,original_ai_assisted_campus_queries,how can i register for an elective course,validation
+Where do I submit my assignment?,academics,original_ai_assisted_campus_queries,where do i submit my assignment,validation
+What is the minimum attendance for exams?,academics,original_ai_assisted_campus_queries,what is the minimum attendance for exams,test
+How do I apply for a revaluation of marks?,academics,original_ai_assisted_campus_queries,how do i apply for a revaluation of marks,train
+Can I change my lab batch?,academics,original_ai_assisted_campus_queries,can i change my lab batch,train
+Where can I download the physics syllabus?,academics,original_ai_assisted_campus_queries,where can i download the physics syllabus,train
+When are the supplementary examinations?,academics,original_ai_assisted_campus_queries,when are the supplementary examinations,test
+How is the semester GPA calculated?,academics,original_ai_assisted_campus_queries,how is the semester gpa calculated,train
+Who is teaching the mathematics course?,academics,original_ai_assisted_campus_queries,who is teaching the mathematics course,train
+I missed a quiz can I take a makeup test?,academics,original_ai_assisted_campus_queries,i missed a quiz can i take a makeup test,validation
+How many credits do I need to graduate?,academics,original_ai_assisted_campus_queries,how many credits do i need to graduate,train
+What is the deadline for course withdrawal?,academics,original_ai_assisted_campus_queries,what is the deadline for course withdrawal,train
+Where can I get my academic transcript?,academics,original_ai_assisted_campus_queries,where can i get my academic transcript,train
+How do I contact my faculty advisor?,academics,original_ai_assisted_campus_queries,how do i contact my faculty advisor,train
+Are lecture notes available online?,academics,original_ai_assisted_campus_queries,are lecture notes available online,train
+Can I get an extension on my project submission?,academics,original_ai_assisted_campus_queries,can i get an extension on my project submission,train
+When does registration for the next semester open?,academics,original_ai_assisted_campus_queries,when does registration for the next semester open,train
+My exam result has an incorrect grade,academics,original_ai_assisted_campus_queries,my exam result has an incorrect grade,test
+What are the prerequisites for machine learning?,academics,original_ai_assisted_campus_queries,what are the prerequisites for machine learning,train
+How do I apply for an academic scholarship?,academics,original_ai_assisted_campus_queries,how do i apply for an academic scholarship,test
+Where is my chemistry lecture happening?,academics,original_ai_assisted_campus_queries,where is my chemistry lecture happening,validation
+Can I transfer credits from another university?,academics,original_ai_assisted_campus_queries,can i transfer credits from another university,validation
+What chapters are included in tomorrow's test?,academics,original_ai_assisted_campus_queries,what chapters are included in tomorrow's test,validation
+When will internal assessment marks be published?,academics,original_ai_assisted_campus_queries,when will internal assessment marks be published,train
+How do I pay my tuition fees?,academics,original_ai_assisted_campus_queries,how do i pay my tuition fees,train
+Who approves my final year thesis topic?,academics,original_ai_assisted_campus_queries,who approves my final year thesis topic,train
+Is there an attendance exemption for medical leave?,academics,original_ai_assisted_campus_queries,is there an attendance exemption for medical leave,train
+Can I repeat a failed subject this term?,academics,original_ai_assisted_campus_queries,can i repeat a failed subject this term,train
+Where do I collect my degree certificate?,academics,original_ai_assisted_campus_queries,where do i collect my degree certificate,validation
+The professor has not uploaded our grades,academics,original_ai_assisted_campus_queries,the professor has not uploaded our grades,test
+What is the format of the programming practical exam?,academics,original_ai_assisted_campus_queries,what is the format of the programming practical exam,train
+How can I request a recommendation from my teacher?,academics,original_ai_assisted_campus_queries,how can i request a recommendation from my teacher,test
+When is the last date to submit lab records?,academics,original_ai_assisted_campus_queries,when is the last date to submit lab records,train
+I need help understanding the course registration portal,academics,original_ai_assisted_campus_queries,i need help understanding the course registration portal,train
+Are there extra tutorial classes for calculus?,academics,original_ai_assisted_campus_queries,are there extra tutorial classes for calculus,test
+When is the annual cultural festival?,events,original_ai_assisted_campus_queries,when is the annual cultural festival,train
+How do I register for the campus hackathon?,events,original_ai_assisted_campus_queries,how do i register for the campus hackathon,train
+Where is the guest lecture taking place?,events,original_ai_assisted_campus_queries,where is the guest lecture taking place,train
+What time does the music concert start?,events,original_ai_assisted_campus_queries,what time does the music concert start,train
+Are tickets available for the college fest?,events,original_ai_assisted_campus_queries,are tickets available for the college fest,train
+Can I volunteer for the graduation ceremony?,events,original_ai_assisted_campus_queries,can i volunteer for the graduation ceremony,train
+Where is the schedule for sports day?,events,original_ai_assisted_campus_queries,where is the schedule for sports day,train
+How much is the entry fee for the workshop?,events,original_ai_assisted_campus_queries,how much is the entry fee for the workshop,test
+Who is speaking at the entrepreneurship summit?,events,original_ai_assisted_campus_queries,who is speaking at the entrepreneurship summit,train
+When will the debate competition begin?,events,original_ai_assisted_campus_queries,when will the debate competition begin,test
+Can outsiders attend the cultural night?,events,original_ai_assisted_campus_queries,can outsiders attend the cultural night,train
+How do I get a certificate for attending the seminar?,events,original_ai_assisted_campus_queries,how do i get a certificate for attending the seminar,train
+Is the robotics exhibition happening tomorrow?,events,original_ai_assisted_campus_queries,is the robotics exhibition happening tomorrow,validation
+Where do I sign up for the coding contest?,events,original_ai_assisted_campus_queries,where do i sign up for the coding contest,validation
+Has the freshers welcome party been postponed?,events,original_ai_assisted_campus_queries,has the freshers welcome party been postponed,test
+What are the rules for the photography competition?,events,original_ai_assisted_campus_queries,what are the rules for the photography competition,validation
+Where can I collect my event pass?,events,original_ai_assisted_campus_queries,where can i collect my event pass,train
+How do I cancel my workshop registration?,events,original_ai_assisted_campus_queries,how do i cancel my workshop registration,test
+When does the dance performance end?,events,original_ai_assisted_campus_queries,when does the dance performance end,train
+Are registrations open for the science fair?,events,original_ai_assisted_campus_queries,are registrations open for the science fair,train
+Can our team perform at the talent show?,events,original_ai_assisted_campus_queries,can our team perform at the talent show,validation
+Where is the venue for the alumni meet?,events,original_ai_assisted_campus_queries,where is the venue for the alumni meet,train
+Is there a live stream of the convocation?,events,original_ai_assisted_campus_queries,is there a live stream of the convocation,test
+Who should I contact about sponsoring the festival?,events,original_ai_assisted_campus_queries,who should i contact about sponsoring the festival,train
+What is the theme of this year's annual fest?,events,original_ai_assisted_campus_queries,what is the theme of this year's annual fest,validation
+Can I join the marathon on Sunday?,events,original_ai_assisted_campus_queries,can i join the marathon on sunday,train
+How long is the artificial intelligence seminar?,events,original_ai_assisted_campus_queries,how long is the artificial intelligence seminar,train
+Will the film screening have free entry?,events,original_ai_assisted_campus_queries,will the film screening have free entry,train
+Where is the audience seating for the concert?,events,original_ai_assisted_campus_queries,where is the audience seating for the concert,train
+Is the quiz competition open to first years?,events,original_ai_assisted_campus_queries,is the quiz competition open to first years,validation
+When is the prize distribution ceremony?,events,original_ai_assisted_campus_queries,when is the prize distribution ceremony,test
+I have not received my hackathon confirmation email,events,original_ai_assisted_campus_queries,i have not received my hackathon confirmation email,test
+Can I present a poster at the research symposium?,events,original_ai_assisted_campus_queries,can i present a poster at the research symposium,train
+Are there seats left for the public speaking workshop?,events,original_ai_assisted_campus_queries,are there seats left for the public speaking workshop,test
+What time should volunteers report for the fest?,events,original_ai_assisted_campus_queries,what time should volunteers report for the fest,train
+How can I book a stall for the campus carnival?,events,original_ai_assisted_campus_queries,how can i book a stall for the campus carnival,validation
+When does the campus shuttle leave?,transport,original_ai_assisted_campus_queries,when does the campus shuttle leave,test
+Where is the nearest college bus stop?,transport,original_ai_assisted_campus_queries,where is the nearest college bus stop,train
+How do I apply for a student bus pass?,transport,original_ai_assisted_campus_queries,how do i apply for a student bus pass,validation
+Is there a shuttle to the railway station?,transport,original_ai_assisted_campus_queries,is there a shuttle to the railway station,train
+What is the fare for the university bus?,transport,original_ai_assisted_campus_queries,what is the fare for the university bus,test
+Can I see the bus route map?,transport,original_ai_assisted_campus_queries,can i see the bus route map,test
+Why is the morning bus running late?,transport,original_ai_assisted_campus_queries,why is the morning bus running late,train
+What time is the last shuttle back to the hostel?,transport,original_ai_assisted_campus_queries,what time is the last shuttle back to the hostel,validation
+Where can I park my bicycle?,transport,original_ai_assisted_campus_queries,where can i park my bicycle,validation
+How do I renew my vehicle parking permit?,transport,original_ai_assisted_campus_queries,how do i renew my vehicle parking permit,test
+Is there transport to the airport?,transport,original_ai_assisted_campus_queries,is there transport to the airport,train
+Can I track the college bus location?,transport,original_ai_assisted_campus_queries,can i track the college bus location,validation
+Does the shuttle run on weekends?,transport,original_ai_assisted_campus_queries,does the shuttle run on weekends,test
+Where do I board the bus to the main gate?,transport,original_ai_assisted_campus_queries,where do i board the bus to the main gate,train
+I left my bag on the university bus,transport,original_ai_assisted_campus_queries,i left my bag on the university bus,validation
+Is a wheelchair accessible bus available?,transport,original_ai_assisted_campus_queries,is a wheelchair accessible bus available,train
+How do I report a rude bus driver?,transport,original_ai_assisted_campus_queries,how do i report a rude bus driver,train
+Can day scholars use the evening shuttle?,transport,original_ai_assisted_campus_queries,can day scholars use the evening shuttle,train
+Which bus goes to the city centre?,transport,original_ai_assisted_campus_queries,which bus goes to the city centre,validation
+Has the campus bus route changed?,transport,original_ai_assisted_campus_queries,has the campus bus route changed,train
+How often does the electric cart run?,transport,original_ai_assisted_campus_queries,how often does the electric cart run,train
+Where can I find a taxi pickup point?,transport,original_ai_assisted_campus_queries,where can i find a taxi pickup point,train
+Can I bring my scooter inside campus?,transport,original_ai_assisted_campus_queries,can i bring my scooter inside campus,train
+Where do I pay the annual bus fee?,transport,original_ai_assisted_campus_queries,where do i pay the annual bus fee,validation
+What is the fastest route from the hostel to the north gate?,transport,original_ai_assisted_campus_queries,what is the fastest route from the hostel to the north gate,train
+Are there extra buses after the festival?,transport,original_ai_assisted_campus_queries,are there extra buses after the festival,train
+My bus pass was lost how can I replace it?,transport,original_ai_assisted_campus_queries,my bus pass was lost how can i replace it,test
+Is the shuttle service cancelled today?,transport,original_ai_assisted_campus_queries,is the shuttle service cancelled today,train
+Where is the motorcycle parking area?,transport,original_ai_assisted_campus_queries,where is the motorcycle parking area,train
+Does the bus stop near the library?,transport,original_ai_assisted_campus_queries,does the bus stop near the library,test
+Can I reserve a seat on the college bus?,transport,original_ai_assisted_campus_queries,can i reserve a seat on the college bus,train
+When will the transport office open?,transport,original_ai_assisted_campus_queries,when will the transport office open,train
+Is there a cycle rental service on campus?,transport,original_ai_assisted_campus_queries,is there a cycle rental service on campus,train
+How do I report a broken bus seat?,transport,original_ai_assisted_campus_queries,how do i report a broken bus seat,train
+Which shuttle connects the two campuses?,transport,original_ai_assisted_campus_queries,which shuttle connects the two campuses,train
+Will transport be available after the late exam?,transport,original_ai_assisted_campus_queries,will transport be available after the late exam,train
+How do I join the coding club?,clubs,original_ai_assisted_campus_queries,how do i join the coding club,train
+When are robotics club recruitment interviews?,clubs,original_ai_assisted_campus_queries,when are robotics club recruitment interviews,test
+Who is the president of the music society?,clubs,original_ai_assisted_campus_queries,who is the president of the music society,train
+What is the membership fee for the drama club?,clubs,original_ai_assisted_campus_queries,what is the membership fee for the drama club,validation
+Can a first year student join IEEE?,clubs,original_ai_assisted_campus_queries,can a first year student join ieee,train
+Where does the astronomy club meet?,clubs,original_ai_assisted_campus_queries,where does the astronomy club meet,train
+How can I start a new student society?,clubs,original_ai_assisted_campus_queries,how can i start a new student society,train
+What does the finance team of the club do?,clubs,original_ai_assisted_campus_queries,what does the finance team of the club do,train
+Can I be a member of two clubs?,clubs,original_ai_assisted_campus_queries,can i be a member of two clubs,validation
+How do I apply for the club management committee?,clubs,original_ai_assisted_campus_queries,how do i apply for the club management committee,train
+Is the photography society recruiting new members?,clubs,original_ai_assisted_campus_queries,is the photography society recruiting new members,train
+What skills are needed to join the AI club?,clubs,original_ai_assisted_campus_queries,what skills are needed to join the ai club,train
+Where can I find a list of student clubs?,clubs,original_ai_assisted_campus_queries,where can i find a list of student clubs,train
+When is the next dance club meeting?,clubs,original_ai_assisted_campus_queries,when is the next dance club meeting,validation
+How do I contact the literary society coordinator?,clubs,original_ai_assisted_campus_queries,how do i contact the literary society coordinator,test
+Can beginners join the chess club?,clubs,original_ai_assisted_campus_queries,can beginners join the chess club,train
+How are club leaders elected?,clubs,original_ai_assisted_campus_queries,how are club leaders elected,train
+I want to leave the debating society,clubs,original_ai_assisted_campus_queries,i want to leave the debating society,validation
+How do I renew my club membership?,clubs,original_ai_assisted_campus_queries,how do i renew my club membership,train
+What are the responsibilities of a club secretary?,clubs,original_ai_assisted_campus_queries,what are the responsibilities of a club secretary,test
+Does the environmental club accept volunteers?,clubs,original_ai_assisted_campus_queries,does the environmental club accept volunteers,test
+Where is the registration form for the gaming society?,clubs,original_ai_assisted_campus_queries,where is the registration form for the gaming society,train
+How do I prepare for a technical club interview?,clubs,original_ai_assisted_campus_queries,how do i prepare for a technical club interview,train
+Can I switch domains within the student chapter?,clubs,original_ai_assisted_campus_queries,can i switch domains within the student chapter,train
+Is there a club for learning foreign languages?,clubs,original_ai_assisted_campus_queries,is there a club for learning foreign languages,validation
+Who is the faculty mentor of the robotics society?,clubs,original_ai_assisted_campus_queries,who is the faculty mentor of the robotics society,test
+When will club selection results be announced?,clubs,original_ai_assisted_campus_queries,when will club selection results be announced,train
+Can postgraduate students join the film society?,clubs,original_ai_assisted_campus_queries,can postgraduate students join the film society,test
+How many hours should club members contribute weekly?,clubs,original_ai_assisted_campus_queries,how many hours should club members contribute weekly,test
+How do I propose a project to the coding society?,clubs,original_ai_assisted_campus_queries,how do i propose a project to the coding society,train
+Where is the official student chapter group?,clubs,original_ai_assisted_campus_queries,where is the official student chapter group,train
+What is the screening task for the cybersecurity club?,clubs,original_ai_assisted_campus_queries,what is the screening task for the cybersecurity club,train
+Can I apply for the treasurer position in our club?,clubs,original_ai_assisted_campus_queries,can i apply for the treasurer position in our club,train
+Who approves the formation of a student association?,clubs,original_ai_assisted_campus_queries,who approves the formation of a student association,train
+Are there vacancies in the design team of the club?,clubs,original_ai_assisted_campus_queries,are there vacancies in the design team of the club,validation
+How do I get a certificate for club membership?,clubs,original_ai_assisted_campus_queries,how do i get a certificate for club membership,validation
+What time does the library close?,facilities,original_ai_assisted_campus_queries,what time does the library close,validation
+The WiFi is not working in my hostel,facilities,original_ai_assisted_campus_queries,the wifi is not working in my hostel,validation
+How do I book a badminton court?,facilities,original_ai_assisted_campus_queries,how do i book a badminton court,test
+Where is the campus medical centre?,facilities,original_ai_assisted_campus_queries,where is the campus medical centre,train
+Is the cafeteria open on Sundays?,facilities,original_ai_assisted_campus_queries,is the cafeteria open on sundays,validation
+How do I report a leaking tap in my room?,facilities,original_ai_assisted_campus_queries,how do i report a leaking tap in my room,train
+Where can I print documents on campus?,facilities,original_ai_assisted_campus_queries,where can i print documents on campus,test
+Can I borrow a laptop from the computer lab?,facilities,original_ai_assisted_campus_queries,can i borrow a laptop from the computer lab,validation
+The air conditioner in the classroom is broken,facilities,original_ai_assisted_campus_queries,the air conditioner in the classroom is broken,test
+How do I reserve a study room?,facilities,original_ai_assisted_campus_queries,how do i reserve a study room,train
+Where is the drinking water dispenser?,facilities,original_ai_assisted_campus_queries,where is the drinking water dispenser,train
+What are the gym opening hours?,facilities,original_ai_assisted_campus_queries,what are the gym opening hours,validation
+Can I renew my library book online?,facilities,original_ai_assisted_campus_queries,can i renew my library book online,train
+Where can I get my student ID card replaced?,facilities,original_ai_assisted_campus_queries,where can i get my student id card replaced,train
+How do I apply for a hostel room change?,facilities,original_ai_assisted_campus_queries,how do i apply for a hostel room change,train
+Is there a laundry service in the hostel?,facilities,original_ai_assisted_campus_queries,is there a laundry service in the hostel,test
+The lift in the academic building is not working,facilities,original_ai_assisted_campus_queries,the lift in the academic building is not working,train
+How do I access the digital library?,facilities,original_ai_assisted_campus_queries,how do i access the digital library,train
+Where is the lost and found office?,facilities,original_ai_assisted_campus_queries,where is the lost and found office,train
+Are there accessible toilets near the auditorium?,facilities,original_ai_assisted_campus_queries,are there accessible toilets near the auditorium,train
+How can I book the auditorium for a meeting?,facilities,original_ai_assisted_campus_queries,how can i book the auditorium for a meeting,train
+The projector in lecture hall three is faulty,facilities,original_ai_assisted_campus_queries,the projector in lecture hall three is faulty,train
+Where do I complain about mess food?,facilities,original_ai_assisted_campus_queries,where do i complain about mess food,validation
+Can I use the swimming pool in the evening?,facilities,original_ai_assisted_campus_queries,can i use the swimming pool in the evening,test
+How do I reset my campus WiFi password?,facilities,original_ai_assisted_campus_queries,how do i reset my campus wifi password,train
+Is there a charging point in the reading room?,facilities,original_ai_assisted_campus_queries,is there a charging point in the reading room,test
+Who can fix the broken fan in my hostel?,facilities,original_ai_assisted_campus_queries,who can fix the broken fan in my hostel,train
+Where is the nearest campus ATM?,facilities,original_ai_assisted_campus_queries,where is the nearest campus atm,test
+How do I report a power outage in the lab?,facilities,original_ai_assisted_campus_queries,how do i report a power outage in the lab,train
+Can I get first aid at the health centre?,facilities,original_ai_assisted_campus_queries,can i get first aid at the health centre,train
+What is the fine for an overdue library book?,facilities,original_ai_assisted_campus_queries,what is the fine for an overdue library book,train
+Are lockers available in the sports complex?,facilities,original_ai_assisted_campus_queries,are lockers available in the sports complex,train
+How do I request maintenance for a broken window?,facilities,original_ai_assisted_campus_queries,how do i request maintenance for a broken window,validation
+Where is the campus security office?,facilities,original_ai_assisted_campus_queries,where is the campus security office,train
+Can I check the availability of hostel rooms?,facilities,original_ai_assisted_campus_queries,can i check the availability of hostel rooms,validation
+Does the canteen have vegetarian meals?,facilities,original_ai_assisted_campus_queries,does the canteen have vegetarian meals,train
+What is the weather in London today?,other,original_ai_assisted_campus_queries,what is the weather in london today,train
+Tell me a joke,other,original_ai_assisted_campus_queries,tell me a joke,train
+How do I bake a chocolate cake?,other,original_ai_assisted_campus_queries,how do i bake a chocolate cake,train
+Who won the cricket world cup?,other,original_ai_assisted_campus_queries,who won the cricket world cup,validation
+What is the current price of gold?,other,original_ai_assisted_campus_queries,what is the current price of gold,test
+Can you translate hello into French?,other,original_ai_assisted_campus_queries,can you translate hello into french,train
+Recommend a movie for tonight,other,original_ai_assisted_campus_queries,recommend a movie for tonight,test
+How do I open a personal savings account?,other,original_ai_assisted_campus_queries,how do i open a personal savings account,train
+What is the capital of Brazil?,other,original_ai_assisted_campus_queries,what is the capital of brazil,train
+Can you write a poem about the moon?,other,original_ai_assisted_campus_queries,can you write a poem about the moon,train
+How do I fix my home washing machine?,other,original_ai_assisted_campus_queries,how do i fix my home washing machine,validation
+Where can I buy a new mobile phone?,other,original_ai_assisted_campus_queries,where can i buy a new mobile phone,train
+What is the best way to grow tomatoes?,other,original_ai_assisted_campus_queries,what is the best way to grow tomatoes,test
+Tell me the history of the Roman empire,other,original_ai_assisted_campus_queries,tell me the history of the roman empire,train
+How do I cancel my streaming subscription?,other,original_ai_assisted_campus_queries,how do i cancel my streaming subscription,validation
+What should I cook for dinner at home?,other,original_ai_assisted_campus_queries,what should i cook for dinner at home,train
+Can you help me book a hotel in Goa?,other,original_ai_assisted_campus_queries,can you help me book a hotel in goa,train
+How far is Mars from Earth?,other,original_ai_assisted_campus_queries,how far is mars from earth,train
+What is the exchange rate for dollars?,other,original_ai_assisted_campus_queries,what is the exchange rate for dollars,test
+How do I train my puppy?,other,original_ai_assisted_campus_queries,how do i train my puppy,train
+Suggest a birthday gift for my sister,other,original_ai_assisted_campus_queries,suggest a birthday gift for my sister,train
+Who directed the latest superhero movie?,other,original_ai_assisted_campus_queries,who directed the latest superhero movie,train
+Can you set a timer for ten minutes?,other,original_ai_assisted_campus_queries,can you set a timer for ten minutes,test
+How can I track my online shopping order?,other,original_ai_assisted_campus_queries,how can i track my online shopping order,train
+What are the rules of chess?,other,original_ai_assisted_campus_queries,what are the rules of chess,train
+How do I recharge my prepaid phone?,other,original_ai_assisted_campus_queries,how do i recharge my prepaid phone,train
+What is the tallest mountain in the world?,other,original_ai_assisted_campus_queries,what is the tallest mountain in the world,train
+Tell me a bedtime story,other,original_ai_assisted_campus_queries,tell me a bedtime story,validation
+How do I apply for a passport?,other,original_ai_assisted_campus_queries,how do i apply for a passport,validation
+What is the recipe for vegetable soup?,other,original_ai_assisted_campus_queries,what is the recipe for vegetable soup,test
+Can you recommend a holiday destination?,other,original_ai_assisted_campus_queries,can you recommend a holiday destination,train
+How do I change my social media profile photo?,other,original_ai_assisted_campus_queries,how do i change my social media profile photo,test
+What does this song lyric mean?,other,original_ai_assisted_campus_queries,what does this song lyric mean,validation
+How can I learn to play the guitar at home?,other,original_ai_assisted_campus_queries,how can i learn to play the guitar at home,train
+Can you explain why the sky is blue?,other,original_ai_assisted_campus_queries,can you explain why the sky is blue,test
+How do I calculate income tax?,other,original_ai_assisted_campus_queries,how do i calculate income tax,validation

@@ -1,0 +1,22 @@
+{
+  "rows_before_cleaning": 216,
+  "rows_after_cleaning": 216,
+  "duplicates_removed": 0,
+  "missing_values": 0,
+  "class_counts": {
+    "academics": 36,
+    "events": 36,
+    "transport": 36,
+    "clubs": 36,
+    "facilities": 36,
+    "other": 36
+  },
+  "split_counts": {
+    "train": 129,
+    "validation": 43,
+    "test": 44
+  },
+  "source_sha256": "e14f0922c018891b6173b4f0fa556973c010d4936e4e541a2c9f35f891a08330",
+  "min_words": 4,
+  "max_words": 12
+}

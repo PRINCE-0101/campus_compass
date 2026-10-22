@@ -1,0 +1,45 @@
+text,label,prediction,raw_prediction,top_model_confidence,correct
+What is the minimum attendance for exams?,academics,academics,academics,0.26540615948877583,True
+When are the supplementary examinations?,academics,academics,academics,0.317795003342695,True
+My exam result has an incorrect grade,academics,academics,academics,0.4231423050101393,True
+How do I apply for an academic scholarship?,academics,academics,academics,0.3031294913233971,True
+The professor has not uploaded our grades,academics,transport,transport,0.21223903314213516,False
+How can I request a recommendation from my teacher?,academics,other,other,0.3869425832809582,False
+Are there extra tutorial classes for calculus?,academics,transport,transport,0.3150704507654258,False
+How much is the entry fee for the workshop?,events,events,events,0.5685480164382934,True
+When will the debate competition begin?,events,academics,academics,0.29393987927821447,False
+Has the freshers welcome party been postponed?,events,transport,transport,0.3152477769628004,False
+How do I cancel my workshop registration?,events,academics,academics,0.3233601280370709,False
+Is there a live stream of the convocation?,events,transport,transport,0.31700416133496684,False
+When is the prize distribution ceremony?,events,events,events,0.34416298008498336,True
+I have not received my hackathon confirmation email,events,facilities,facilities,0.23491946704894826,False
+Are there seats left for the public speaking workshop?,events,events,events,0.40368576521531535,True
+When does the campus shuttle leave?,transport,transport,transport,0.2805284035428532,True
+What is the fare for the university bus?,transport,events,events,0.32343150323826764,False
+Can I see the bus route map?,transport,transport,transport,0.6177537431398019,True
+How do I renew my vehicle parking permit?,transport,clubs,clubs,0.2413739106942968,False
+Does the shuttle run on weekends?,transport,transport,transport,0.4867238787834073,True
+My bus pass was lost how can I replace it?,transport,transport,transport,0.23638967365705912,True
+Does the bus stop near the library?,transport,transport,transport,0.3832793330791475,True
+When are robotics club recruitment interviews?,clubs,clubs,clubs,0.5826102127522116,True
+How do I contact the literary society coordinator?,clubs,clubs,clubs,0.32940511502095887,True
+What are the responsibilities of a club secretary?,clubs,clubs,clubs,0.4023935019282671,True
+Does the environmental club accept volunteers?,clubs,clubs,clubs,0.5089598954097935,True
+Who is the faculty mentor of the robotics society?,clubs,clubs,clubs,0.4397984744841434,True
+Can postgraduate students join the film society?,clubs,clubs,clubs,0.4594063441197951,True
+How many hours should club members contribute weekly?,clubs,clubs,clubs,0.3912888380134247,True
+How do I book a badminton court?,facilities,facilities,facilities,0.4424869445150624,True
+Where can I print documents on campus?,facilities,transport,transport,0.3079531584627052,False
+The air conditioner in the classroom is broken,facilities,facilities,facilities,0.49074191471137807,True
+Is there a laundry service in the hostel?,facilities,transport,transport,0.3823509612255998,False
+Can I use the swimming pool in the evening?,facilities,transport,transport,0.2652702031920656,False
+Is there a charging point in the reading room?,facilities,facilities,facilities,0.43312757838284494,True
+Where is the nearest campus ATM?,facilities,transport,transport,0.32386560773056594,False
+What is the current price of gold?,other,other,other,0.3676285305460566,True
+Recommend a movie for tonight,other,other,other,0.28240734387644645,True
+What is the best way to grow tomatoes?,other,other,other,0.2619786360128104,True
+What is the exchange rate for dollars?,other,other,other,0.23705682682342716,True
+Can you set a timer for ten minutes?,other,other,other,0.577655865241995,True
+What is the recipe for vegetable soup?,other,other,other,0.23705682682342716,True
+How do I change my social media profile photo?,other,academics,academics,0.3366550639860737,False
+Can you explain why the sky is blue?,other,other,other,0.46511359565811794,True
